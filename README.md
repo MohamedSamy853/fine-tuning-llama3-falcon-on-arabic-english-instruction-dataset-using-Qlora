@@ -1,0 +1,2 @@
+# fine-tuning-llama3-falcon-on-arabic-english-instruction-dataset-using-Qlora
+In this project, I utilized LLaMA3 and Falcon models to perform fine-tuning on both Arabic and English datasets. By employing the QLoRA technique, I aimed to enhance the models' performance and behavior in multilingual contexts. The project's goal was to improve the accuracy and effectiveness of language models across these two languages.
